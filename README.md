@@ -1,1 +1,1 @@
-My first readme
+Personal lesson
